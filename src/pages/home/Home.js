@@ -1,9 +1,9 @@
-import { Table } from "@mui/material";
 import Chart from "../../components/chart/Chart";
 import Featured from "../../components/featured/Featured";
 import Navbar from "../../components/navbar/Navbar";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Widget from "../../components/widget/Widget";
+import Table from "../../components/table/Table";
 import "./home.scss";
 
 const Home = () => {
